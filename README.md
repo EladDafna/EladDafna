@@ -4,11 +4,9 @@
 
 I'm a Junior DevOps Engineer with a passion for technology and a background in Business Administration and Economics. I recently completed a DevOps course at RT-ED College in Tel Aviv, where I acquired advanced skills in the field.
 
-
 ## Projects
 
 Feel free to check out [my GitHub Projects folder](https://github.com/EladDafna/Projects) to see my recent work.
-
 
 ## Education
 
@@ -119,4 +117,3 @@ I'm always looking for new opportunities to learn and grow in the DevOps field. 
 <a href="https://github.com/EladDafna/Projects" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=EladDafna&repo=Projects&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div>
 <br /><br /><br /><br /><br /><br /><br />
-
