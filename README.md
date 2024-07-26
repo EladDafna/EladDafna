@@ -77,11 +77,6 @@ I'm always looking for new opportunities to learn and grow in the DevOps field. 
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eladdafna&show_icons=true&locale=en&layout=compact" alt="eladdafna" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eladdafna&show_icons=true&locale=en" alt="eladdafna" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eladdafna&" alt="eladdafna" /></p>
 
 ### Socials
 
