@@ -1,4 +1,5 @@
 # Hello, I'm Elad Dafna 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eladdafna&label=Profile%20views&color=0e75b6&style=flat" alt="eladdafna" /> </p>
 
 ## About Me
 
