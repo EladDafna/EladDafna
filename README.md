@@ -1,4 +1,5 @@
 # Hello, I'm Elad Dafna 👋
+* ✉️  You can contact me at [eladdaf@gmail.com](mailto:eladdaf@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eladdafna&label=Profile%20views&color=0e75b6&style=flat" alt="eladdafna" /> </p>
 <img align="right" alt="Coding" width="400" src="https://shalb.com/wp-content/uploads/2019/11/Devops1-2048x1338.jpeg">
 
