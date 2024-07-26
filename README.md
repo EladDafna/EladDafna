@@ -4,24 +4,11 @@
 
 I'm a Junior DevOps Engineer with a passion for technology and a background in Business Administration and Economics. I recently completed a DevOps course at RT-ED College in Tel Aviv, where I acquired advanced skills in the field.
 
-## Technical Skills
-
-- **Networking**: TCP/IP, OSI, DNS, DHCP
-- **Operating Systems**: Linux
-- **Programming Languages**: Python
-- **DevOps Tools**: Ansible, Terraform, Docker, Jenkins, Kubernetes, Helm
-- **Cloud**: AWS
-- **Version Control**: Git, GitHub, GitHub Actions
-- **Monitoring**: Zabbix, Grafana
-- **Virtualization**: VMware, VirtualBox
 
 ## Projects
 
 Feel free to check out [my GitHub Projects folder](https://github.com/EladDafna/Projects) to see my recent work.
 
-## Professional Experience
-
-I worked as a Project Manager at MagalCom, a communications company, where I developed skills in project planning, meeting tight deadlines, and working with CRM systems.
 
 ## Education
 
