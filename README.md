@@ -77,7 +77,11 @@ I'm always looking for new opportunities to learn and grow in the DevOps field. 
   <a href="https://www.zabbix.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" alt="zabbix" width="40" height="40"/>
   </a>
+  <a href="https://github.com/user-attachments/assets/07af6e61-ec19-413f-9ff6-0e68e5864822" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/07af6e61-ec19-413f-9ff6-0e68e5864822" alt="הורדה" width="40" height="40"/>
+  </a>
 </p>
+
 
 
 ### Socials
