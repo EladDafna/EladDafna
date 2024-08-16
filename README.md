@@ -59,9 +59,6 @@ I'm always looking for new opportunities to learn and grow in the DevOps field. 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
-  <a href="https://www.vmware.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vmware/vmware-original.svg" alt="vmware" width="40" height="40"/>
-  </a>
   <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" width="40" height="40"/>
   </a>
@@ -76,6 +73,9 @@ I'm always looking for new opportunities to learn and grow in the DevOps field. 
   </a>
   <a href="https://www.zabbix.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" alt="zabbix" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/user-attachments/assets/9b04ef55-a0ff-40ab-801e-cb6de66414da" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/9b04ef55-a0ff-40ab-801e-cb6de66414da" alt="image" width="40" height="40"/>
   </a>
   <a href="https://github.com/user-attachments/assets/07af6e61-ec19-413f-9ff6-0e68e5864822" target="_blank" rel="noreferrer">
     <img src="https://github.com/user-attachments/assets/07af6e61-ec19-413f-9ff6-0e68e5864822" alt="הורדה" width="40" height="40"/>
