@@ -18,6 +18,9 @@ Feel free to check out [my GitHub Projects folder](https://github.com/EladDafna/
 
 I'm always looking for new opportunities to learn and grow in the DevOps field. If you're looking for someone with a strong technical background, quick learning ability, and capability to work under pressure, I'd love to connect!
 
+כדי לעדכן את הקוד ולהחליף את תמונת ה-VMware בתמונה החדשה שציינת, השתמש בקוד הבא:
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
@@ -74,8 +77,8 @@ I'm always looking for new opportunities to learn and grow in the DevOps field. 
   <a href="https://www.zabbix.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" alt="zabbix" width="40" height="40"/>
   </a>
-  <a href="https://github.com/user-attachments/assets/9b04ef55-a0ff-40ab-801e-cb6de66414da" target="_blank" rel="noreferrer">
-    <img src="https://github.com/user-attachments/assets/9b04ef55-a0ff-40ab-801e-cb6de66414da" alt="image" width="40" height="40"/>
+  <a href="https://github.com/user-attachments/assets/43fa8497-855e-49ea-b0c0-942c0a84e0f4" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/43fa8497-855e-49ea-b0c0-942c0a84e0f4" alt="image" width="40" height="40"/>
   </a>
   <a href="https://github.com/user-attachments/assets/07af6e61-ec19-413f-9ff6-0e68e5864822" target="_blank" rel="noreferrer">
     <img src="https://github.com/user-attachments/assets/07af6e61-ec19-413f-9ff6-0e68e5864822" alt="הורדה" width="40" height="40"/>
