@@ -18,8 +18,6 @@ Feel free to check out [my GitHub Projects folder](https://github.com/EladDafna/
 
 I'm always looking for new opportunities to learn and grow in the DevOps field. If you're looking for someone with a strong technical background, quick learning ability, and capability to work under pressure, I'd love to connect!
 
-כדי לעדכן את הקוד ולהחליף את תמונת ה-VMware בתמונה החדשה שציינת, השתמש בקוד הבא:
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
