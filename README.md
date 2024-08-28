@@ -5,7 +5,9 @@
 
 ## About Me
 
-I'm a Junior DevOps Engineer with a passion for technology and a background in Business Administration and Economics. I recently completed a DevOps course at RT-ED College in Tel Aviv, where I acquired advanced skills in the field.
+Outstanding Graduate in DevOps Studies from RT-ED College, after completing a DevOps course with distinction (96) and receiving a certificate. Additionally, holds a Bachelor's degree in Economics and Business Administration from Ariel University. Possesses rapid learning abilities
+excellent interpersonal skills, knows how to work in a team, and performs well under pressure.
+Seeking a challenging position as a DevOps Engineer/System.
 
 ## Projects
 
